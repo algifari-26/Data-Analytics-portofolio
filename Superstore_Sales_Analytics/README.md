@@ -1,4 +1,5 @@
 # 🛒 Superstore Sales Performance & Analytics
+![Dashboard Superstore Sales](./Dashboard%201.png)
 
 ## 📌 Overview
 Proyek ini menganalisis performa penjualan historis ritel Superstore secara end-to-end. Proses dimulai dari pembersihan data mentah (*Data Cleaning*) menggunakan Python di Google Colab hingga pembuatan *Interactive Executive Dashboard* di Tableau Public untuk membantu pengadaan strategi bisnis berbasis data.
