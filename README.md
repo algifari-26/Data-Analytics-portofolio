@@ -33,6 +33,11 @@ Kumpulan proyek yang berfokus pada *Data Storytelling* dan pembuatan metrik bisn
   * **Deskripsi:** Analisis penemuan pola risiko berdasarkan demografi nasabah (usia dan pekerjaan) serta rasio finansial (gaji dan plafon pinjaman) guna membantu tim Risk Management merumuskan kebijakan persetujuan kredit yang lebih aman.
   * **Format Utama:** *Dashboard Image* (`.png`) & Laporan Bisnis
   * **Tools:** Tableau Public.
+ 
+* **[5. Superstore Sales Performance & Analytics](./Superstore_Sales_Analytics)**
+  * **Deskripsi:** Proyek *end-to-end* analisis data ritel, mulai dari pembersihan data mentah (*handling missing values* dan *datetime conversion*) hingga pembuatan *Interactive Executive Dashboard* untuk menemukan metrik utama pendapatan, tren musiman, dan segmentasi pasar.
+  * **Format Utama:** *Source Code* (`.ipynb`), *Dashboard Image* (`.png`) & Laporan Bisnis
+  * **Tools:** Python (Pandas), Tableau Public.
 
 
 ---
