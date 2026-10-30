@@ -1,7 +1,8 @@
-# Prediksi & Analisis Retensi Pelanggan (Telco Customer Churn) 📊
+# 📊 Prediksi & Analisis Retensi Pelanggan (Telco Customer Churn) 
 
-**Tautan Dashboard Interaktif:** [Lihat Dashboard Tableau Public Di Sini](./TELCO20%CUSTOMER20%CHURN20%RISK20%DASHBOARD.png)
+![Dashboard Telco Customer Churn](./TELCO%20CUSTOMER%20CHURN%20RISK%20DASHBOARD.png)
 
+**🔗 Tautan Dashboard Interaktif:** [Klik di sini untuk melihat versi interaktif di Tableau Public](https://public.tableau.com/app/profile/mr.algi/viz/TelcoCustomerChurnDashboard_17932930679760/TELCOCUSTOMERCHURNRISKDASHBOARD)
 ## 📌 Latar Belakang Masalah
 Perusahaan telekomunikasi saat ini menghadapi rasio kehilangan pelanggan (*churn rate*) yang cukup tinggi, yakni sebesar **26.54%**. Mempertahankan pelanggan lama jauh lebih hemat biaya dibandingkan mengakuisisi pelanggan baru. Oleh karena itu, perusahaan membutuhkan pendekatan berbasis data untuk mengidentifikasi pelanggan mana yang berisiko tinggi untuk berhenti berlangganan di masa depan.
 
