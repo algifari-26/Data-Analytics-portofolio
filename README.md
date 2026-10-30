@@ -38,6 +38,11 @@ Kumpulan proyek yang berfokus pada *Data Storytelling* dan pembuatan metrik bisn
   * **Deskripsi:** Proyek *end-to-end* analisis data ritel, mulai dari pembersihan data mentah (*handling missing values* dan *datetime conversion*) hingga pembuatan *Interactive Executive Dashboard* untuk menemukan metrik utama pendapatan, tren musiman, dan segmentasi pasar.
   * **Format Utama:** *Source Code* (`.ipynb`), *Dashboard Image* (`.png`) & Laporan Bisnis
   * **Tools:** Python (Pandas), Tableau Public.
+ 
+* **[6. Telco Customer Churn & Retention Analytics](./Telco_Customer_Churn)**
+  * **Deskripsi:** Proyek *end-to-end* pemodelan prediktif untuk menghitung probabilitas pelanggan berhenti berlangganan (*churn*). Mencakup pembersihan data, *Exploratory Data Analysis* (EDA), pelatihan algoritma *Machine Learning* (Random Forest), hingga perancangan *Executive Dashboard* interaktif untuk merumuskan strategi retensi berdasarkan jenis kontrak dan tagihan bulanan.
+  * **Format Utama:** *Source Code* (`.ipynb`), *Predictive Dataset* (`.csv`), *Dashboard Image* (`.png`) & Laporan Bisnis (`README.md`)
+  * **Tools:** Python (Pandas, Scikit-Learn, Seaborn), Tableau Public.
 
 
 ---
